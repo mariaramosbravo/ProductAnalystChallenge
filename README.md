@@ -29,4 +29,4 @@ Some of these boxplots were useful to estimate which variables have a bigger imp
 
 Box plots can be useful to get an idea of which variable is more related to the weekly logins but I thought a correlation test would be a nice addition to it. To do so, I had to see how the data was structured (what kind of data each column had) and transform the ones that were objects to integer, boolean or float values.
 
-Using Pearson's correlation method I found that the variables that show stronger correlation with the Weekly Logins are "Slack Integration" and "Free Trial". Meaning that the users who have access to slack and are given free trial are the most likely to log in frequently.
+Using Pearson's correlation method I found that the variables that show stronger correlation with the Weekly Logins are "Slack Integration", "Free Trial" and "Most Used Page". Meaning that the users who have access to slack and are given free trial are the most likely to log in frequently but depending on the page customers use most, the number of logins may decrease.
