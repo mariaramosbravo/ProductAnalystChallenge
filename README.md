@@ -1,6 +1,6 @@
 # Growth Strategies
 1.	Behavioral Credit Scoring: 
-Since default rates are a major concern for neobanks, Umba could implement a credit score model based in a questionnaire or psychometric test that can provide a glance of the user’s personality traits; we can give cashbacks or other rewards to motivate answering the test. 
+Since default rates are a major concern for neobanks, Umba could implement a credit score model based on a questionnaire or psychometric test that can provide a glance of the user’s personality traits; we can give cashbacks or other rewards to motivate answering the test. 
 Over the last decade Behavioral Economics has been a good way to measure and study human decision making considering how people think and feel, and the biases derived from perceptions. 
 Behavioral credit scoring has proven to improve the efficiency in prediction of conventional scores. It consists in asking the users targeted questions directed to relevant personality  traits such as perception of success, the user’s risk profile etc.  in order to deduce their willingness to pay and other important factors. For continents where most of the population is excluded from financial sector participation it can provide a precise estimation of trustworthiness and ability of repayment without a formal credit history. The Harvard’s Entrepreneurial Finance Lab Research Initiative (EFLRI) used a similiar approach in a study and it was proven to cut default rates by between 25% and 40%.
 
